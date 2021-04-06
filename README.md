@@ -11,7 +11,7 @@ Implementujte 3 typy widgetů - text, image a video. Pro každý si zvolte libov
 
 Každý element v ploše by měl jít pomocí "drag and drop" funkcionality posouvat.
 
-Každý element by mělo jít označit kliknutím a následně smazat pomocí klávesové zkratky delete či backspace. Pro mazání elementů můžete také vykreslit křížek do rohu elementu, pokud je vybraný, a smazat element kliknutím na tento křížek.
+Každý element by mělo jít označit kliknutím a následně smazat pomocí klávesové zkratky delete či backspace. Pro mazání elementů také vykreslete křížek do rohu elementu, pokud je vybraný. Kliknutí na tento křížek by mělo smazat vybraný element.
 
 Datový model editoru si zvolte tak, aby jej bylo možné serializovat do localstorage.
 
